@@ -1,0 +1,20 @@
+{
+  "" : {
+    "const-values" : "/Volumes/Data Backup/music_app_git/music_app/build/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master.swiftconstvalues",
+    "dependencies" : "/Volumes/Data Backup/music_app_git/music_app/build/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master.d",
+    "diagnostics" : "/Volumes/Data Backup/music_app_git/music_app/build/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master.dia",
+    "emit-module-dependencies" : "/Volumes/Data Backup/music_app_git/music_app/build/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Volumes/Data Backup/music_app_git/music_app/build/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Volumes/Data Backup/music_app_git/music_app/build/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseSharedSwift-master.swiftdeps"
+  },
+  "/Volumes/Data Backup/music_app_git/music_app/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.o",
+    "llvm-bc" : "/Volumes/Data Backup/music_app_git/music_app/build/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.bc",
+    "object" : "/Volumes/Data Backup/music_app_git/music_app/build/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseRemoteConfigValueDecoding.o"
+  },
+  "/Volumes/Data Backup/music_app_git/music_app/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.o",
+    "llvm-bc" : "/Volumes/Data Backup/music_app_git/music_app/build/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.bc",
+    "object" : "/Volumes/Data Backup/music_app_git/music_app/build/Pods.build/Release-iphoneos/FirebaseSharedSwift.build/Objects-normal/arm64/FirebaseDataEncoder.o"
+  }
+}
