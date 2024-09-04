@@ -1,5 +1,0 @@
- extern const unsigned char Pods_CarPlayMusicSampleAppVersionString[];
- extern const double Pods_CarPlayMusicSampleAppVersionNumber;
-
- const unsigned char Pods_CarPlayMusicSampleAppVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_CarPlayMusicSampleApp  PROJECT:Pods-1" "\n";
- const double Pods_CarPlayMusicSampleAppVersionNumber __attribute__ ((used)) = (double)1.;

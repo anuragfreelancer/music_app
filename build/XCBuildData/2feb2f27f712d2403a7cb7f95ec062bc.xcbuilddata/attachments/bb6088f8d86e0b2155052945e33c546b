@@ -1,6 +1,0 @@
-framework module Pods_CarPlayMusicSampleApp {
-  umbrella header "Pods-CarPlayMusicSampleApp-umbrella.h"
-
-  export *
-  module * { export * }
-}

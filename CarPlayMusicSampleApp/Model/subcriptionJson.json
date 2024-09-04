@@ -1,0 +1,20 @@
+{
+  "options": [
+    {
+      "type": "subscriptionOption",
+      "id": "freeTrial",
+      "label": "FREE TRIAL",
+      "price": "₹ 0 / Month",
+      "description": "For 30 days\nTerms & Conditions apply",
+      "selected": true
+    },
+    {
+      "type": "subscriptionOption",
+      "id": "monthly",
+      "label": "MONTHLY",
+      "price": "₹ 300 / Month",
+      "description": "Unlimited Access\nTerms & Conditions apply",
+      "selected": false
+    }
+  ]
+}
